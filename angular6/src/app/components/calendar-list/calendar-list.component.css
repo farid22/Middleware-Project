@@ -1,0 +1,41 @@
+.calendarList_container {
+  margin: 2% 10%;
+}
+
+mat-card-title > h5 {
+  font-size: 15px;
+  margin: 10px;
+}
+
+table {
+  width: 100%;
+  box-shadow: none !important;
+}
+
+th, td {
+  overflow: hidden;
+  width: 200px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pl25{
+  padding-left: 25px;
+}
+
+.calendarList_titleCard {
+  margin: 10px 0 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.calendarList_fieldShare > mat-card {
+  font-size: 14px;
+  padding: 5px 10px;
+  display: flex;
+}
+
+.calendarList_btnShare{
+  height: 40px;
+  margin: 0 10px;
+}
