@@ -1,11 +1,7 @@
 # Equivalent de Doodle pour planification des réunions
 
-## Réalisé par :
-
- - Faredj HAMMACHE
- - Hocine ALOUANE
+## Réalisé par
  - Farid HADJADJ
- - Abdelmalek HOUFEL
 
 
 ## Installation de l'application
